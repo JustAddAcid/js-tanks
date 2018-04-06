@@ -1,1 +1,3 @@
-Brick game tanks clone. Enjoy :3
+# JS clone Brick-Game tanks
+
+![Screenshot](/screenshot.jpg)
